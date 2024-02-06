@@ -5,6 +5,12 @@ Utility to scrape NVIDIA events and presentations
 1. NVIDIA Events are being scraped from RSS - https://investor.nvidia.com/rss/event.aspx
 2. NVIDIA Presentations are being scraped from RSS - https://investor.nvidia.com/rss/presentation.aspx
 
+## How-to use it
+Execute the following
+```
+python main.py
+```
+
 ## Sample Output
 ```
 [2024-02-06 09:33:19,181] main.py, <module> INFO     --------NVIDIA UPCOMING EVENTS----------------
